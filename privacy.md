@@ -6,9 +6,9 @@ permalink: /privacy
 
 # Privacy Policy
 
-**Effective date:** _[FILL IN — e.g., January 1, 2026]_
+**Effective date:** August 10, 2026
 
-This Privacy Policy describes how **_[COMPANY LEGAL NAME — e.g., CoG Pharma LLC]_** ("we", "us", or "our")
+This Privacy Policy describes how CoG Pharma LLC ("we", "us", or "our")
 collects, uses, and protects information in connection with our internal software application
 **CoGPharma QB–TTRX Sync** (the "Application").
 
@@ -78,5 +78,5 @@ revised effective date.
 
 If you have questions about this Privacy Policy, contact us at:
 
-**_[COMPANY LEGAL NAME]_**
-Email: _[CONTACT EMAIL — e.g., support@cogpharma.com]_
+CoG Pharma LLC
+Email: shawn@shawndube.com

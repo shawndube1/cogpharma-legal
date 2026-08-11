@@ -6,10 +6,10 @@ permalink: /eula
 
 # End-User License Agreement (EULA)
 
-**Effective date:** _[FILL IN — e.g., January 1, 2026]_
+**Effective date:** August 10, 2026
 
 This End-User License Agreement ("Agreement") is a legal agreement between you ("User") and
-**_[COMPANY LEGAL NAME — e.g., CoG Pharma LLC]_** ("we", "us", or "our") governing your use of the
+CoG Pharma LLC ("we", "us", or "our") governing your use of the
 software application **CoGPharma QB–TTRX Sync** (the "Application").
 
 By installing, accessing, or using the Application, you agree to be bound by the terms of this
@@ -78,5 +78,5 @@ United States]_, without regard to its conflict-of-law principles.
 
 If you have questions about this Agreement, contact us at:
 
-**_[COMPANY LEGAL NAME]_**
-Email: _[CONTACT EMAIL — e.g., support@cogpharma.com]_
+CoG Pharma LLC
+Email: shawn@shawndube.com
